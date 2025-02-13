@@ -1,4 +1,4 @@
-# <center>PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle> 
+# <center>PROJECT-3. EDA + Feature Engineering. Соревнование на Kaggle
 
 ## Содержание
 
